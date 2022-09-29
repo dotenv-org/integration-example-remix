@@ -5,3 +5,8 @@
 /.cache
 /public/build
 /build
+
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
